@@ -1,0 +1,69 @@
+header {
+	background:#343A40;
+	width:100%;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #FFFFFF;
+}
+footer {
+	width:100%;
+	background: #F5F5F5;
+	
+}
+footer div {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	padding:1em 0;
+	margin:0;
+}
+#portfolio_back {
+	width:100%;
+	background: #E9ECEF;
+	
+}
+#portfolio {
+	font-weight: 300;
+	font-size: 72px;
+	line-height: 84px;
+	font-family: 'Roboto';
+	font-style: normal;
+	color: #212529;
+	padding-top:1em;
+	padding-bottom:1em;
+}
+#portfolio h1 {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 72px;
+	line-height: 84px;
+	color: #212529;
+}
+#portfolio p {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #212529;
+	margin:0;
+}
+td {
+	color: #007BFF;
+}
+.data_tabl {
+	color: #000000;
+}
+.row {
+	margin:2em;
+	margin-left:0;
+}
+#portfolio .row {
+	margin:0;
+}
